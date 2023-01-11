@@ -7,8 +7,12 @@ const emojiDictionary = {
   "😔": "sad",
   "🥡": "takeout box",
   "❤️": "love",
-  "😑":
-    "annoyance" /** add some more to show how the app now expands when there's new data */
+  "😑": "annoyance",
+  "🥺": "pleading",
+  "😉": "Winking",
+  "🔥": "fire",
+  "🤩": "Star Struck",
+  "🤔": "thinking"/** add some more to show how the app now expands when there's new data */
 };
 
 const emojis = Object.keys(emojiDictionary);
